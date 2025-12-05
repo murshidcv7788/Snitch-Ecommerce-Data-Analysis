@@ -196,30 +196,7 @@ Presentation Building
 About
 A data-driven analysis of Snitch Fashion’s e-commerce performance, covering sales trends, profitability, product categories, and customer segments. This project transforms raw data through cleaning, EDA, and visualization to uncover key business insights and strategy recommendations.
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Languages
-Jupyter Notebook
-100.0%
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
+
 Status
 Community
 Docs
